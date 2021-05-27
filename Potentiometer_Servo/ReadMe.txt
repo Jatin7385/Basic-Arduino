@@ -1,0 +1,1 @@
+This is an arduino code for controlling a servo using a potentiometer
